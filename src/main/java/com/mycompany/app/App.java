@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+		String test ="test";
         System.out.println( "Hello World!" );
 
         System.out.println("A NullPointerException is a drag...");
